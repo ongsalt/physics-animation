@@ -98,6 +98,12 @@
         />
     </div>
     <div id="settings" class="card">
+        <h1>
+            This shit dont work. Pls go to <a href="/verlet">verlet</a>
+        </h1>
+        <h2>
+            Also <a href="/sizeTransform">iOS app opening animation</a>
+        </h2>
         <h2>Settings</h2>
         <div>
             <label for="friction"> Friction </label>
@@ -115,6 +121,7 @@
             <h3>Velocity</h3>
             <p>x: {velocityX}</p>
             <p>x: {velocityY}</p>
+            
         </div>
         <div>
             <h3>Control</h3>
